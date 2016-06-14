@@ -123,6 +123,7 @@ input {
 	border: 1px solid #b9b9af;
 	margin-bottom: 5px;
 	margin-top: 20px;
+  color: #5a5a5a;
 	background-color: #fff;
 	opacity: 0.9;
 	-webkit-transition: background-color 0.2s;
